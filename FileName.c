@@ -23,5 +23,4 @@ int main() {
 	}
 	printf("%d", brojredova);
 	fclose(filepointer);
-	return 0;
-}
+
