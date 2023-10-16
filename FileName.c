@@ -17,7 +17,7 @@ int main() {
 		return 1;
 
 	}
-	while (foef(filepointer)) {
+	while (feof(filepointer)) {
 		if (fgets(charbuffer, 1024, filepointer) == "\n")
 			brojredova++;
 	}
