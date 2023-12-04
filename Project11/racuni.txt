@@ -1,0 +1,14 @@
+﻿2023-01-15
+Mlijeko 2 1.5
+Jaja 1 2.0
+Kruh 1 1.8
+2023-02-03
+Sok 3 2.5
+Cips 2 1.2
+Kava 1 5.0
+2023-02-25
+Mlijeko 1 1.5
+Cips 1 1.2
+2023-03-16
+Kruh 2 1.9
+Mlijeko 1 1.4
