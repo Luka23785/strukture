@@ -1,0 +1,6 @@
+Hrvatska hrv.txt
+Francuska fr.txt
+Nizozemska nl.txt
+Australija aus.txt
+Kanada cdn.txt
+Rusija ru.txt
